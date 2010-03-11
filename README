@@ -7,5 +7,11 @@ This editor is for "another_branch" branch.
 =======
 Now change it based off of "my_branch" branch which created on "master" branch, see what happened?
 update this only
+<<<<<<< HEAD:README
 >>>>>>> my_branch:README
 ########################### approve above auto merge conflicts ######################
+=======
+
+It's changing for 3rd_branch only.
+>>>>>>> 3rd_branch:README
+########################### approve the conflicts ######################################
