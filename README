@@ -1,4 +1,11 @@
 This is a trial of using git command, learn and study is the purpose.
 2010.03.11
 
+########################### below is auto merge conflicts ##########################
+<<<<<<< HEAD:README
 This editor is for "another_branch" branch.
+=======
+Now change it based off of "my_branch" branch which created on "master" branch, see what happened?
+update this only
+>>>>>>> my_branch:README
+########################### approve above auto merge conflicts ######################
